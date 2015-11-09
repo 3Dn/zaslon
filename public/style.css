@@ -1,0 +1,14 @@
+body{
+	background: #000;
+	color: #30C5F0;
+}
+.check_off{
+	width:29px;
+	height:15px;
+	background: url("img/check_off.png") no-repeat;
+}
+.check_on{
+	width:29px;
+	height:15px;
+	background: url("img/check_on.png") no-repeat;
+}
